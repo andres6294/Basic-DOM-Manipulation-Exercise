@@ -9,3 +9,6 @@ The page includes buttons that modify an &lt;h1&gt; element by:
 - Showing and hiding the element
 - Changing a button’s background color
 - Resetting all values to default
+
+
+https://andres6294.github.io/Basic-DOM-Manipulation-Exercise/
