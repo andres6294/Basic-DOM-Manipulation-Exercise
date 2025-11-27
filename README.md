@@ -1,7 +1,7 @@
 # Basic-DOM-Manipulation-Exercise
 This project is a beginner-friendly exercise using HTML, CSS, and JavaScript to practice fundamental DOM (Document Object Model) manipulation concepts.
 
-The page includes buttons that modify an <h1> element by:
+The page includes buttons that modify an &lt;h1&gt; element by:
 
 - Changing text color
 - Adjusting font size
